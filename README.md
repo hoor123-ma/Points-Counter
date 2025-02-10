@@ -1,28 +1,13 @@
-# points_counter_app
+# Points Counter
 
-A new Flutter project.
+This is a simple project for counting points in a game or activity. It allows users to input scores, view totals, and reset the counter when needed. The project is designed as a beginner-friendly tool to practice programming skills.
 
-## Getting Started
+## Features:
+- Add or subtract points.
+- Display total points dynamically.
+- Reset functionality.
 
-This project is a starting point for a Flutter application.
+## Purpose:
+This project was created for learning and practicing programming concepts such as functions, user input, and basic logic. It's ideal for tracking scores in small games or competitions.
 
-🚀 It’s a Points Counter App, and here’s what it does:
-
-✅ Each team (Team 1 and Team 2) can add points:
-
-Add 1 Point , 
-Add 2 Points
- , Add 3 Points
-
-✅ There’s also a Reset Button to reset the score and start fresh!
-
-It’s a simple app, but it’s my first step toward becoming a Flutter developer. I learned a lot while building it, and I’m looking forward to creating more projects and improving my skills.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore, contribute, or share feedback!
