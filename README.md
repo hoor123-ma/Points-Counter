@@ -6,13 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-🌟 My First Flutter App: Points Counter 🌟
-
 🚀 It’s a Points Counter App, and here’s what it does:
 
 ✅ Each team (Team 1 and Team 2) can add points:
 
-Add 1 Point
+Add 1 Point 
 Add 2 Points
 Add 3 Points
 
