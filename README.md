@@ -10,9 +10,9 @@ This project is a starting point for a Flutter application.
 
 ✅ Each team (Team 1 and Team 2) can add points:
 
-Add 1 Point 
+Add 1 Point , 
 Add 2 Points
-Add 3 Points
+ , Add 3 Points
 
 ✅ There’s also a Reset Button to reset the score and start fresh!
 
