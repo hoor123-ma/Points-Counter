@@ -1,10 +1,24 @@
-# basketball_pointers_counter_app
+# points_counter_app
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+🌟 My First Flutter App: Points Counter 🌟
+
+🚀 It’s a Points Counter App, and here’s what it does:
+
+✅ Each team (Team 1 and Team 2) can add points:
+
+Add 1 Point
+Add 2 Points
+Add 3 Points
+
+✅ There’s also a Reset Button to reset the score and start fresh!
+
+It’s a simple app, but it’s my first step toward becoming a Flutter developer. I learned a lot while building it, and I’m looking forward to creating more projects and improving my skills.
 
 A few resources to get you started if this is your first Flutter project:
 
